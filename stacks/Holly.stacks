@@ -1,0 +1,12 @@
+## Holly
+
+Level = 1
+
+HP = 9
+MaxHP = 9
+
+str = d4
+dex = d6
+smt = d8
+con = d10
+cha = d12
